@@ -1,0 +1,37 @@
+﻿<Window x:Class="Cheese_Quest.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cheese_Quest"
+        mc:Ignorable="d"
+        Title="Register" Height="332" Width="453" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/Setting Fon.png"/>
+    </Window.Background>
+    <Grid>
+        <Label Content="Ім'я користувача:" HorizontalAlignment="Left" Height="28" Margin="101,66,0,0" VerticalAlignment="Top" Width="105"/>
+        <Label Content="Електронна адреса:" HorizontalAlignment="Left" Height="28" Margin="100,102,0,0" VerticalAlignment="Top" Width="117" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.091"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.314"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Пароль:" HorizontalAlignment="Left" Height="24" Margin="101,132,0,0" VerticalAlignment="Top" Width="53"/>
+        <Label Content="Повторіть пароль:" HorizontalAlignment="Left" Height="24" Margin="101,172,0,0" VerticalAlignment="Top" Width="111"/>
+        <Button Content="Зареєструватися" HorizontalAlignment="Center" Height="53" Margin="0,234,0,0" VerticalAlignment="Top" Width="170" FontFamily="Times New Roman" FontSize="14" Click="Button_Click"/>
+        <TextBox x:Name="UsernameTextBox" HorizontalAlignment="Left" Height="25" Margin="211,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"/>
+        <TextBox x:Name="EmailTextBox" HorizontalAlignment="Left" Height="25" Margin="221,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Height="25" Margin="159,135,0,0" VerticalAlignment="Top" Width="165"/>
+        <PasswordBox x:Name="ConfirmPasswordBox" HorizontalAlignment="Left" Height="25" Margin="212,172,0,0" VerticalAlignment="Top" Width="130"/>
+        <TextBlock HorizontalAlignment="Left" Height="21" Margin="230,208,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="112" RenderTransformOrigin="0.525,0.811">
+             <Hyperlink Click="LoginLink_Click">У вас уже є акаунт?</Hyperlink>
+        </TextBlock>
+        <Label Content="Зареєструйтеся щоб почати!" HorizontalAlignment="Left" Height="36" Margin="101,10,0,0" VerticalAlignment="Top" Width="262" FontFamily="Times New Roman" FontSize="20"/>
+
+    </Grid>
+</Window>

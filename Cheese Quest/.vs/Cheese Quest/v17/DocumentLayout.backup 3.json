@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|c:\\users\\sb872\\iclouddrive\\\u0436\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u043F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u043E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\cheese quest\\level4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\levelselect.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:levelselect.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\level3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\level2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\level1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\levelfailed.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:levelfailed.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\levelcomplete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:levelcomplete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\levelcomplete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:levelcomplete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\levelselect.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:levelselect.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\level1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\level2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\level4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\level3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:level3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\tips.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:tips.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\setting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:setting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\levelfailed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6A68C4-EE95-44C7-AF92-D21713B146B9}|Cheese Quest.csproj|solutionrelative:levelfailed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelComplete.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelComplete.xaml.cs",
+              "RelativeDocumentMoniker": "LevelComplete.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelComplete.xaml.cs",
+              "RelativeToolTip": "LevelComplete.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:04:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelFailed.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelFailed.xaml.cs",
+              "RelativeDocumentMoniker": "LevelFailed.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelFailed.xaml.cs",
+              "RelativeToolTip": "LevelFailed.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:04:09.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelSelect.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelSelect.xaml.cs",
+              "RelativeDocumentMoniker": "LevelSelect.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelSelect.xaml.cs",
+              "RelativeToolTip": "LevelSelect.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:55:06.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level4.xaml.cs",
+              "RelativeDocumentMoniker": "Level4.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level4.xaml.cs",
+              "RelativeToolTip": "Level4.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAIAwwHkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:46:11.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level3.xaml.cs",
+              "RelativeDocumentMoniker": "Level3.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level3.xaml.cs",
+              "RelativeToolTip": "Level3.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAIAwwG8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:46:02.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level2.xaml.cs",
+              "RelativeDocumentMoniker": "Level2.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level2.xaml.cs",
+              "RelativeToolTip": "Level2.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:45:18.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level1.xaml.cs",
+              "RelativeDocumentMoniker": "Level1.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level1.xaml.cs",
+              "RelativeToolTip": "Level1.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIAwwGYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:32:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvyIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:53:15.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Setting.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Setting.xaml",
+              "RelativeDocumentMoniker": "Setting.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Setting.xaml",
+              "RelativeToolTip": "Setting.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T18:11:22.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tips.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Tips.xaml",
+              "RelativeDocumentMoniker": "Tips.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Tips.xaml",
+              "RelativeToolTip": "Tips.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T18:11:14.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T19:36:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Register.xaml",
+              "RelativeDocumentMoniker": "Register.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Register.xaml",
+              "RelativeToolTip": "Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T18:07:37.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T18:07:52.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Level4.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level4.xaml",
+              "RelativeDocumentMoniker": "Level4.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level4.xaml",
+              "RelativeToolTip": "Level4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T17:25:52.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Level3.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level3.xaml",
+              "RelativeDocumentMoniker": "Level3.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level3.xaml",
+              "RelativeToolTip": "Level3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T16:51:47.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LevelFailed.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelFailed.xaml",
+              "RelativeDocumentMoniker": "LevelFailed.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelFailed.xaml",
+              "RelativeToolTip": "LevelFailed.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T17:49:06.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Level2.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level2.xaml",
+              "RelativeDocumentMoniker": "Level2.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level2.xaml",
+              "RelativeToolTip": "Level2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T17:38:50.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Level1.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level1.xaml",
+              "RelativeDocumentMoniker": "Level1.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\Level1.xaml",
+              "RelativeToolTip": "Level1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T13:02:59.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelComplete.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelComplete.xaml",
+              "RelativeDocumentMoniker": "LevelComplete.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelComplete.xaml",
+              "RelativeToolTip": "LevelComplete.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T15:11:38.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelSelect.xaml",
+              "DocumentMoniker": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelSelect.xaml",
+              "RelativeDocumentMoniker": "LevelSelect.xaml",
+              "ToolTip": "C:\\Users\\sb872\\iCloudDrive\\\u0416\u0438\u0442\u043E\u043C\u0438\u0440\u0441\u044C\u043A\u0430 \u043F\u043E\u043B\u0456\u0442\u0435\u0445\u043D\u0456\u043A\u0430\\\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u0438\\\u041E\u0431\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0435\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Cheese Quest\\LevelSelect.xaml",
+              "RelativeToolTip": "LevelSelect.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T13:14:05.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

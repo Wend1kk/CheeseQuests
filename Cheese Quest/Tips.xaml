@@ -1,0 +1,26 @@
+﻿<Window x:Class="Cheese_Quest.TipsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tips" Height="368" Width="906" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/Setting Fon.png"/>
+    </Window.Background>
+    <Grid Margin="0,0,10,15">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="227*"/>
+            <ColumnDefinition Width="73*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Поради для нових гравців:" FontSize="20" HorizontalAlignment="Left" Margin="327,10,0,10" />
+        <ListBox Margin="10,50,0,-13" FontFamily="Times New Roman" FontSize="20" Background="{x:Null}" Grid.ColumnSpan="2">
+            <ListBoxItem>1. Для пересування використовуйте клавіші-стрілки: ← ↑ ↓ → — це основне керування гравцем.</ListBoxItem>
+            <ListBoxItem>2. Ваше завдання — зібрати весь сир на рівні, тільки після цього з’явиться вихід.</ListBoxItem>
+            <ListBoxItem>3. Не наближайтесь до котів — зіткнення з ними призведе до поразки.</ListBoxItem>
+            <ListBoxItem>4. Пастки активуються при наближенні — уважно вивчайте їхнє розташування.</ListBoxItem>
+            <ListBoxItem>5. Використовуйте нірки, щоб потрапити у закриті або віддалені зони.</ListBoxItem>
+            <ListBoxItem>6. Рівні ускладнюються поступово, тому перші проходьте уважно, щоб звикнути до механік.</ListBoxItem>
+            <ListBoxItem>7. Не бійтеся програвати — кожна спроба допомагає краще зрозуміти логіку гри.</ListBoxItem>
+            <ListBoxItem>8. Пам’ятайте, що час обмежений, тому намагайтеся діяти швидко, але обережно.</ListBoxItem>
+            <ListBoxItem>9. Гучність можна налаштувати у вікні налаштувань, якщо звук заважає або навпаки — допомагає.</ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+<Window x:Class="Cheese_Quest.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Settings" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/Setting Fon.png"/>
+    </Window.Background>
+    <Canvas>
+        <Button x:Name="SoundsButton" HorizontalAlignment="Left" Height="94" VerticalAlignment="Top" Width="100" Click="SoundsButton_Click" Canvas.Left="142" Canvas.Top="80">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFFFFCFC" Offset="0"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Image x:Name="SoundImage" Height="65" Width="68" Source="/Images/SoundOn.png"/>
+        </Button>
+    </Canvas>
+</Window>

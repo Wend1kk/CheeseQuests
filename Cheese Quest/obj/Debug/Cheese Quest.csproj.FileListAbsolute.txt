@@ -1,0 +1,80 @@
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Cheese Quest.exe.config
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Cheese Quest.exe
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Cheese Quest.pdb
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.csproj.AssemblyReference.cache
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\MainWindow.g.cs
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\App.g.cs
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest_MarkupCompile.cache
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest_MarkupCompile.lref
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\MainWindow.baml
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.g.resources
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese_Quest.Properties.Resources.resources
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.csproj.GenerateResource.cache
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.csproj.CoreCompileInputs.cache
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.exe
+C:\Users\Матвій\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.pdb
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.csproj.AssemblyReference.cache
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\LevelSelect.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Setting.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Tips.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level2.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level3.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level4.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\LevelFailed.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Login.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\MainWindow.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\LevelSelect.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Register.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Setting.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Tips.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level1.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\LevelComplete.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\App.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest_Content.g.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest_MarkupCompile.cache
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest_MarkupCompile.lref
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Music.mp3
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Level2.xaml.cs
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Cheese Quest.exe.config
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Cheese Quest.exe
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Cheese Quest.pdb
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\ClassLibrary.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Buffers.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Memory.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Text.Json.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.ValueTuple.dll
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\ClassLibrary.pdb
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\ClassLibrary.dll.config
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Buffers.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Memory.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Text.Json.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\bin\Debug\System.ValueTuple.xml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level2.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level3.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level4.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\LevelFailed.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Login.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\MainWindow.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Register.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Level1.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\LevelComplete.baml
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.g.resources
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese_Quest.Properties.Resources.resources
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.csproj.GenerateResource.cache
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.csproj.CoreCompileInputs.cache
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Q.7074EC25.Up2Date
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.exe
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.pdb
+C:\Users\sb872\iCloudDrive\Житомирська політехніка\Предмети\Обєктно-оріентоване програмування\Курсова робота\Cheese Quest\obj\Debug\Cheese Quest.exe.config

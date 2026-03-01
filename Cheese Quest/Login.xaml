@@ -1,0 +1,25 @@
+﻿<Window x:Class="Cheese_Quest.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cheese_Quest"
+        mc:Ignorable="d"
+        Title="Login" Height="319" Width="494" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/Setting Fon.png"/>
+    </Window.Background>
+    <Grid Height="299" VerticalAlignment="Top">
+        <Label Content="Ім'я користувача:" HorizontalAlignment="Left" Height="30" Margin="119,88,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Content="Пароль:" HorizontalAlignment="Left" Height="29" Margin="119,129,0,0" VerticalAlignment="Top" Width="60"/>
+        <Button Content="Увійти" HorizontalAlignment="Center" Height="57" Margin="0,209,0,0" VerticalAlignment="Top" Width="256" FontFamily="Times New Roman" FontSize="14" Click="Button_Click" RenderTransformOrigin="0.444,0.164"/>
+        <TextBox x:Name="UsernameTextBox" HorizontalAlignment="Left" Height="30" Margin="227,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Height="29" Margin="179,129,0,0" VerticalAlignment="Top" Width="181"/>
+        <CheckBox x:Name="RememberMeCheckBox" Content="Запам`ятати мене?" HorizontalAlignment="Left" Height="20" Margin="119,177,0,0" VerticalAlignment="Top" Width="125"/>
+        <TextBlock HorizontalAlignment="Left" Height="21" Margin="258,174,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="148" RenderTransformOrigin="0.525,0.811">
+     <Hyperlink Click="RegisterLink_Click">У вас ще немає акаунта?</Hyperlink>
+        </TextBlock>
+        <Label Content="Увійдіть щоб почати!" HorizontalAlignment="Left" Height="36" Margin="149,19,0,0" VerticalAlignment="Top" Width="190" FontFamily="Times New Roman" FontSize="20"/>
+
+    </Grid>
+</Window>

@@ -20,6 +20,7 @@ namespace GameLibrary
         private double startTop;
         public int Lives { get; private set; } = 3;
         public event Action OnMouseDead;
+        private double _moveSpeed = 3;
         public MouseCharacter(Image image, List<Rectangle> levelWalls, CheeseManager cheeseMgr)
         {
             MouseImage = image;
@@ -76,22 +77,22 @@ namespace GameLibrary
             double deltaY = 0;
             if (pressedKeys.Contains(Key.Left))
             {
-                deltaX = -3;
+                deltaX = -_moveSpeed;
                 MouseImage.Source = mouseImages[Key.Left];
             }
             if (pressedKeys.Contains(Key.Right))
             {
-                deltaX = 3;
+                deltaX = _moveSpeed;
                 MouseImage.Source = mouseImages[Key.Right];
             }
             if (pressedKeys.Contains(Key.Up))
             {
-                deltaY = -3;
+                deltaY = -_moveSpeed;
                 MouseImage.Source = mouseImages[Key.Up];
             }
             if (pressedKeys.Contains(Key.Down))
             {
-                deltaY = 3;
+                deltaY = _moveSpeed;
                 MouseImage.Source = mouseImages[Key.Down];
             }
             Move(deltaX, deltaY);

@@ -28,6 +28,13 @@ namespace GameLibrary
             walls = levelWalls;
             cheeseManager = cheeseMgr;
         }
+        private void UpdateSprite(Key key)
+        {
+            if (mouseImages.ContainsKey(key))
+            {
+            MouseImage.Source = mouseImages[key];
+            }
+        }
         public void TakeDamage()
         {
             Lives--;
@@ -77,22 +84,22 @@ namespace GameLibrary
             if (pressedKeys.Contains(Key.Left))
             {
                 deltaX = -3;
-                MouseImage.Source = mouseImages[Key.Left];
+                UpdateSprite(Key.Left);
             }
             if (pressedKeys.Contains(Key.Right))
             {
                 deltaX = 3;
-                MouseImage.Source = mouseImages[Key.Right];
+                UpdateSprite(Key.Right);
             }
             if (pressedKeys.Contains(Key.Up))
             {
                 deltaY = -3;
-                MouseImage.Source = mouseImages[Key.Up];
+                UpdateSprite(Key.Up);
             }
             if (pressedKeys.Contains(Key.Down))
             {
                 deltaY = 3;
-                MouseImage.Source = mouseImages[Key.Down];
+                UpdateSprite(Key.Down);
             }
             Move(deltaX, deltaY);
         }

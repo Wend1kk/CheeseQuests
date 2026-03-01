@@ -29,6 +29,13 @@ namespace GameLibrary
             walls = levelWalls;
             cheeseManager = cheeseMgr;
         }
+        private void UpdateSprite(Key key)
+        {
+            if (mouseImages.ContainsKey(key))
+            {
+            MouseImage.Source = mouseImages[key];
+            }
+        }
         public void TakeDamage()
         {
             Lives--;
@@ -46,22 +53,15 @@ namespace GameLibrary
             Canvas.SetLeft(MouseImage, startLeft);
             Canvas.SetTop(MouseImage, startTop);
         }
-        private bool IsColliding(double newLeft, double newTop)
+        private bool CheckIntersection(FrameworkElement obj1, FrameworkElement obj2)
         {
-            foreach (var wall in walls)
-            {
-                double wallLeft = Canvas.GetLeft(wall);
-                double wallTop = Canvas.GetTop(wall);
-
-                if (newLeft + MouseImage.Width > wallLeft &&
-                    newLeft < wallLeft + wall.Width &&
-                    newTop + MouseImage.Height > wallTop &&
-                    newTop < wallTop + wall.Height)
-                {
-                    return true;
-                }
-            }
-            return false;
+        Rect rect1 = new Rect(Canvas.GetLeft(obj1), Canvas.GetTop(obj1), obj1.Width, obj1.Height);
+        Rect rect2 = new Rect(Canvas.GetLeft(obj2), Canvas.GetTop(obj2), obj2.Width, obj2.Height);
+        return rect1.IntersectsWith(rect2);
+        }
+        private bool IsColliding(FrameworkElement obstacle)
+        {
+           return CheckIntersection(MouseImage, obstacle);
         }
 
         private Dictionary<Key, BitmapImage> mouseImages = new Dictionary<Key, BitmapImage>
@@ -75,26 +75,26 @@ namespace GameLibrary
         {
             double deltaX = 0;
             double deltaY = 0;
-            if (pressedKeys.Contains(Key.Left))
-            {
-                deltaX = -_moveSpeed;
-                MouseImage.Source = mouseImages[Key.Left];
-            }
-            if (pressedKeys.Contains(Key.Right))
-            {
-                deltaX = _moveSpeed;
-                MouseImage.Source = mouseImages[Key.Right];
-            }
-            if (pressedKeys.Contains(Key.Up))
-            {
-                deltaY = -_moveSpeed;
-                MouseImage.Source = mouseImages[Key.Up];
-            }
-            if (pressedKeys.Contains(Key.Down))
-            {
-                deltaY = _moveSpeed;
-                MouseImage.Source = mouseImages[Key.Down];
-            }
+           if (pressedKeys.Contains(Key.Left))
+        {
+            deltaX = -_moveSpeed;
+            UpdateSprite(Key.Left);
+        }
+        if (pressedKeys.Contains(Key.Right))
+        {
+            deltaX = _moveSpeed;
+            UpdateSprite(Key.Right);
+        }
+        if (pressedKeys.Contains(Key.Up))
+        {
+            deltaY = -_moveSpeed;
+            UpdateSprite(Key.Up);
+        }
+        if (pressedKeys.Contains(Key.Down))
+        {
+            deltaY = _moveSpeed;
+            UpdateSprite(Key.Down);
+        }
             Move(deltaX, deltaY);
         }
         public void Move(double deltaX, double deltaY)
@@ -107,24 +107,9 @@ namespace GameLibrary
                 Canvas.SetTop(MouseImage, newTop);
             }
         }
-        public void CheckDoorCollision(Image doorImage, Action onLevelComplete)
+        public void CheckDoorCollision(FrameworkElement door)
         {
-            if (doorImage.Source.ToString().Contains("Images/OpenDoor.png"))
-            {
-                double mouseLeft = Canvas.GetLeft(MouseImage);
-                double mouseTop = Canvas.GetTop(MouseImage);
-
-                double doorLeft = Canvas.GetLeft(doorImage);
-                double doorTop = Canvas.GetTop(doorImage);
-
-                if (mouseLeft + MouseImage.Width > doorLeft &&
-                    mouseLeft < doorLeft + doorImage.Width &&
-                    mouseTop + MouseImage.Height > doorTop &&
-                    mouseTop < doorTop + doorImage.Height)
-                {
-                    onLevelComplete();
-                }
-            }
+            return CheckIntersection(MouseImage, door);
         }
         public Rect Bounds
         {
